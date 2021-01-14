@@ -8,7 +8,7 @@ Daisy Rop, Kahiga2244, Antony590, Vicyyu
 Setup instructions
 ​
 
-Clone the repo: git clone https://kahiga2244.github.io/reponame​
+Clone the repo: git clone https://github.com/daisychelangat/hotel-bookings-group-11
 Switch into the directory cd Online Booking Hotel​
 Run the launch command run​#BDD​
 It is a front-end for a simple hotel booking site. The site is developed using HTML/CSS and jquery plugins are used to provide extra features. There are total 5 web-pages of the website.
