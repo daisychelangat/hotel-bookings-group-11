@@ -41,6 +41,5 @@ Contact information
 Email: Email
 ​
 
-License and Copyright information
-​Copyright 2020 - Moringa Inc.
+License and Copyright information:https://github.com/daisychelangat/hotel-bookings-group-11/blob/main/LICENSE
 
